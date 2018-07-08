@@ -108,3 +108,8 @@
 * [ ] Iterate averaging as regularization for stochastic gradient descent
 * [ ] Smoothed Analysis for Efficient Semi-definite Programming
 * [ ] Learning from Unreliable Datasets
+
+## メンバー
+
+現在1名
+* 南 賢太郎 (@ktrmnm)
