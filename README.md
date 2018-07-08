@@ -15,7 +15,7 @@
 ## Accepter Papers
 
 [Accepted Papers](http://www.learningtheory.org/colt2018/call.html#accepted-papers)
-
+[PMLR](http://proceedings.mlr.press/v75/)
 
 * [ ] Actively Avoiding Nonsense in Generative Models
 * [ ] A Faster Approximation Algorithm for the Gibbs Partition Function
