@@ -1,5 +1,3 @@
-# タイトル
-
 - 著者
 - [PMLR](http://proceedings.mlr.press/v75/***.html)
 
