@@ -29,7 +29,7 @@
 * [ ] Learning Without Mixing: Towards A Sharp Analysis of Linear System Identification
 * [x] Active Tolerant Testing
 * [ ] Polynomial Time and Sample Complexity for Non-Gaussian Component Analysis: Spectral Methods
-* [ ] Calibrating Noise to Variance in Adaptive Data Analysis
+* [x] Calibrating Noise to Variance in Adaptive Data Analysis
 * [ ] Accelerating Stochastic Gradient Descent for Least Squares Regression
 * [ ] Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints
 * [ ] Optimal approximation of continuous functions by very deep ReLU networks
