@@ -47,17 +47,17 @@
 * [ ] Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability
 * [ ] Hardness of Learning Noisy Halfspaces using Polynomial Thresholds
 * [ ] Best of Both Worlds: Stochastic & Adversarial Best-Arm Identification
-* [ ] Learning Patterns for Detection with Multiscale Scan Statistics
-* [ ] Global Guarantees for Enforcing Deep Generative Priors by Empirical Risk
+* [x] Learning Patterns for Detection with Multiscale Scan Statistics
+* [x] Global Guarantees for Enforcing Deep Generative Priors by Empirical Risk
 * [ ] Small-loss bounds for online learning with partial information
 * [ ] Empirical bounds for functions with weak interactions
-* [ ] Restricted Eigenvalue from Stable Rank with Applications to Sparse Linear Regression
-* [ ] Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent
+* [x] Restricted Eigenvalue from Stable Rank with Applications to Sparse Linear Regression
+* [x] Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent
 * [ ] Convex Optimization with Unbounded Nonconvex Oracles Using Simulated Annealing
 * [ ] Learning Mixtures of Linear Regressions with Nearly Optimal Complexity
 * [ ] Detecting Correlations with Little Memory and Communication
 * [ ] Finite Sample Analysis of Two-Timescale Stochastic Approximation with Applications to Reinforcement Learning
-* [ ] Near-Optimal Sample Complexity Bounds for Maximum Likelihood Estimation of Multivariate Log-concave Densities
+* [x] Near-Optimal Sample Complexity Bounds for Maximum Likelihood Estimation of Multivariate Log-concave Densities
 * [ ] More Adaptive Algorithms for Adversarial Bandits
 * [ ] Efficient Convex Optimization with Membership Oracles
 * [ ] A General Approach to Multi-Armed Bandits Under Risk Criteria
