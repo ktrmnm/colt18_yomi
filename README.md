@@ -30,17 +30,17 @@
 * [x] Active Tolerant Testing
 * [ ] Polynomial Time and Sample Complexity for Non-Gaussian Component Analysis: Spectral Methods
 * [x] Calibrating Noise to Variance in Adaptive Data Analysis
-* [ ] Accelerating Stochastic Gradient Descent for Least Squares Regression
-* [ ] Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints
-* [ ] Optimal approximation of continuous functions by very deep ReLU networks
+* [x] Accelerating Stochastic Gradient Descent for Least Squares Regression
+* [x] Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints
+* [x] Optimal approximation of continuous functions by very deep ReLU networks
 * [ ] Averaged Stochastic Gradient Descent on Riemannian Manifolds
-* [ ] Fitting a putative manifold to noisy data
-* [ ] Private Sequential Learning
+* [x] Fitting a putative manifold to noisy data
+* [x] Private Sequential Learning
 * [ ] Optimal Errors and Phase Transitions in High-Dimensional Generalized Linear Models
 * [ ] Exact and Robust Conformal Inference Methods for Predictive Machine Learning With Dependent Data
 * [ ] Nonstochastic Bandits with Composite Anonymous Feedback
-* [ ] Lower Bounds for Higher-Order Convex Optimization
-* [ ] Log-concave sampling: Metropolis-Hastings algorithms are fast!
+* [x] Lower Bounds for Higher-Order Convex Optimization
+* [x] Log-concave sampling: Metropolis-Hastings algorithms are fast!
 * [ ] Incentivizing Exploration by Heterogeneous Users
 * [ ] Fast and Sample Near-Optimal Algorithms for Learning Multidimensional Histograms
 * [ ] Time-Space Tradeoffs for Learning Finite Functions from Random Tests, with Applications to Polynomials
