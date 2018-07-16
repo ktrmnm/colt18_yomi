@@ -19,15 +19,15 @@
 
 * [ ] Actively Avoiding Nonsense in Generative Models
 * [ ] A Faster Approximation Algorithm for the Gibbs Partition Function
-* [ ] Exponential convergence of testing error for stochastic gradient methods
-* [ ] Size-Independent Sample Complexity of Neural Networks
-* [ ] Underdamped Langevin MCMC: A non-asymptotic analysis
+* [x] Exponential convergence of testing error for stochastic gradient methods
+* [x] Size-Independent Sample Complexity of Neural Networks
+* [x] Underdamped Langevin MCMC: A non-asymptotic analysis
 * [ ] Online Variance Reduction for Stochastic Optimization
 * [ ] Information Directed Sampling and Bandits with Heteroscedastic Noise
 * [ ] Testing Symmetric Markov Chains From a Single Trajectory
-* [ ] Detection limits in the high-dimensional spiked rectangular model
+* [x] Detection limits in the high-dimensional spiked rectangular model
 * [ ] Learning Without Mixing: Towards A Sharp Analysis of Linear System Identification
-* [ ] Active Tolerant Testing
+* [x] Active Tolerant Testing
 * [ ] Polynomial Time and Sample Complexity for Non-Gaussian Component Analysis: Spectral Methods
 * [ ] Calibrating Noise to Variance in Adaptive Data Analysis
 * [ ] Accelerating Stochastic Gradient Descent for Least Squares Regression
@@ -74,7 +74,7 @@
 * [ ] Adaptivity to Smoothness in X-armed bandits
 * [ ] Black-Box Reductions for Parameter-free Online Learning in Banach Spaces
 * [ ] A Data Prism: Semi-verified learning in the small-alpha regime
-* [ ] Algorithmic Regularization in Over-parameterized Matrix Sensing and Neural Networks with Quadratic Activations
+* [x] Algorithmic Regularization in Over-parameterized Matrix Sensing and Neural Networks with Quadratic Activations
 * [ ] A Direct Sum for Information Learners
 * [ ] Online learning over a finite action set with limited switching
 * [ ] Smoothed Online Convex Optimization in High Dimensions via Online Balanced Descent
@@ -99,7 +99,7 @@
 * [ ] Breaking the $1/\sqrt{n}$ Barrier: Faster Rates for Permutation-based Models in Polynomial Time
 * [ ] Reductions in Fair Learning and Optimization
 * [ ] The Many Faces of Exponential Weights in Online Learning
-* [ ] Reducibility and Computational Lower Bounds for Problems with Planted Sparse Structure
+* [x] Reducibility and Computational Lower Bounds for Problems with Planted Sparse Structure
 * [ ] Sampling as optimization in the space of measures: The Langevin dynamics as a composite optimization problem
 * [ ] Online Learning: Sufficient Statistics and the Burkholder Method
 * [ ] Minimax Bounds on Stochastic Batched Convex Optimization
