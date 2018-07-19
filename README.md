@@ -12,7 +12,7 @@
 * 数式はGitHubでMathJaxをレンダリングする[Chrome拡張](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)で読めるように書く。他の読み方は想定しない。
 * 概要を把握したら下記のリストにチェック
 
-## Accepter Papers
+## Accepter Papers (26/91)
 
 - [Accepted Papers](http://www.learningtheory.org/colt2018/call.html#accepted-papers)
 - [PMLR](http://proceedings.mlr.press/v75/)
@@ -59,17 +59,17 @@
 * [ ] Finite Sample Analysis of Two-Timescale Stochastic Approximation with Applications to Reinforcement Learning
 * [x] Near-Optimal Sample Complexity Bounds for Maximum Likelihood Estimation of Multivariate Log-concave Densities
 * [ ] More Adaptive Algorithms for Adversarial Bandits
-* [ ] Efficient Convex Optimization with Membership Oracles
+* [x] Efficient Convex Optimization with Membership Oracles
 * [ ] A General Approach to Multi-Armed Bandits Under Risk Criteria
-* [ ] An Optimal Learning Algorithm for Online Unconstrained Submodular Maximization
-* [ ] The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity
+* [x] An Optimal Learning Algorithm for Online Unconstrained Submodular Maximization
+* [x] The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity
 * [ ] Approximation beats concentration? An approximation view on inference with smooth radial kernels
-* [ ] Non-Convex Matrix Completion Against a Semi-Random Adversary
+* [x] Non-Convex Matrix Completion Against a Semi-Random Adversary
 * [ ] The Vertex Sample Complexity of Free Energy is Polynomial
-* [ ] Efficient Algorithms for Outlier-Robust Regression
+* [x] Efficient Algorithms for Outlier-Robust Regression
 * [ ] Action-Constrained Markov Decision Processes With Kullback-Leibler Cost
 * [ ] Fundamental Limits of Weak Recovery with Applications to Phase Retrieval
-* [ ] Cutting plane methods can be extended into nonconvex optimization
+* [x] Cutting plane methods can be extended into nonconvex optimization
 * [ ] An Analysis of the t-SNE Algorithm for Data Visualization
 * [ ] Adaptivity to Smoothness in X-armed bandits
 * [ ] Black-Box Reductions for Parameter-free Online Learning in Banach Spaces
